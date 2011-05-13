@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios", "Donios\Donios.csproj", "{102CCE72-AD96-4E8C-A61F-107232DF9436}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{1EC81BA1-6FF9-4E43-B9F8-850E28B68AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.Json", "Donios.DeveloperToolkit.Json\Donios.DeveloperToolkit.Json.csproj", "{13019267-D7EB-4AAB-BBB0-5F0BFB065857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.IO", "Donios.DeveloperToolkit.IO\Donios.DeveloperToolkit.IO.csproj", "{0B6CAD2B-350D-4929-B6A1-B2AB3C82CE87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C98FF8CA-3D86-4B7F-BFAA-E74328672656}"
+	ProjectSection(SolutionItems) = preProject
+		Donios.DeveloperToolkit.vsmdi = Donios.DeveloperToolkit.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.IO.Tests", "Donios.DeveloperToolkit.IO.Tests\Donios.DeveloperToolkit.IO.Tests.csproj", "{56289550-C0CD-45AA-AB7A-466A424044E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.Json.Tests", "Donios.DeveloperToolkit.Json.Tests\Donios.DeveloperToolkit.Json.Tests.csproj", "{D9E0FE4A-162E-40C2-95BE-64859B70A8FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{058AC22C-AA17-4A59-9EC6-5243297FFFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.Web.Tests", "Donios.DeveloperToolkit.Web.Tests\Donios.DeveloperToolkit.Web.Tests.csproj", "{874B7293-D435-4FCC-A050-29852F052D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.ObjectMap.Tests", "Donios.DeveloperToolkit.ObjectMap.Tests\Donios.DeveloperToolkit.ObjectMap.Tests.csproj", "{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.ObjectMap", "Donios.DeveloperToolkit.ObjectMap\Donios.DeveloperToolkit.ObjectMap.csproj", "{EF0230C9-386C-4F04-BDA4-09BA82A97966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donios.DeveloperToolkit.Web", "Donios.DeveloperToolkit.Web\Donios.DeveloperToolkit.Web.csproj", "{A9695FDB-61BB-4DE4-A9D4-6F8366F1A193}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Donios.DeveloperToolkit.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102CCE72-AD96-4E8C-A61F-107232DF9436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102CCE72-AD96-4E8C-A61F-107232DF9436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102CCE72-AD96-4E8C-A61F-107232DF9436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102CCE72-AD96-4E8C-A61F-107232DF9436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13019267-D7EB-4AAB-BBB0-5F0BFB065857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13019267-D7EB-4AAB-BBB0-5F0BFB065857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13019267-D7EB-4AAB-BBB0-5F0BFB065857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13019267-D7EB-4AAB-BBB0-5F0BFB065857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6CAD2B-350D-4929-B6A1-B2AB3C82CE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6CAD2B-350D-4929-B6A1-B2AB3C82CE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6CAD2B-350D-4929-B6A1-B2AB3C82CE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6CAD2B-350D-4929-B6A1-B2AB3C82CE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56289550-C0CD-45AA-AB7A-466A424044E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56289550-C0CD-45AA-AB7A-466A424044E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56289550-C0CD-45AA-AB7A-466A424044E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56289550-C0CD-45AA-AB7A-466A424044E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E0FE4A-162E-40C2-95BE-64859B70A8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E0FE4A-162E-40C2-95BE-64859B70A8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E0FE4A-162E-40C2-95BE-64859B70A8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E0FE4A-162E-40C2-95BE-64859B70A8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874B7293-D435-4FCC-A050-29852F052D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874B7293-D435-4FCC-A050-29852F052D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874B7293-D435-4FCC-A050-29852F052D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874B7293-D435-4FCC-A050-29852F052D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0230C9-386C-4F04-BDA4-09BA82A97966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0230C9-386C-4F04-BDA4-09BA82A97966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0230C9-386C-4F04-BDA4-09BA82A97966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0230C9-386C-4F04-BDA4-09BA82A97966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9695FDB-61BB-4DE4-A9D4-6F8366F1A193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9695FDB-61BB-4DE4-A9D4-6F8366F1A193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9695FDB-61BB-4DE4-A9D4-6F8366F1A193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9695FDB-61BB-4DE4-A9D4-6F8366F1A193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56289550-C0CD-45AA-AB7A-466A424044E0} = {058AC22C-AA17-4A59-9EC6-5243297FFFA1}
+		{D9E0FE4A-162E-40C2-95BE-64859B70A8FC} = {058AC22C-AA17-4A59-9EC6-5243297FFFA1}
+		{874B7293-D435-4FCC-A050-29852F052D48} = {058AC22C-AA17-4A59-9EC6-5243297FFFA1}
+		{6A87D8B0-6E7D-4CD9-8E1C-E1A7AB9C100C} = {058AC22C-AA17-4A59-9EC6-5243297FFFA1}
+	EndGlobalSection
+EndGlobal

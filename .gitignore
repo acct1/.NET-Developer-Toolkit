@@ -1,0 +1,6 @@
+bin
+obj
+Local.testsettings
+*.user
+*.suo
+TestResults
